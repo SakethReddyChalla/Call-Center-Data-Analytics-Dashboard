@@ -24,6 +24,5 @@ This project also demonstrates skills in data cleaning, data modeling, SQL query
 - Power BI
 - Excel
 - SQL
-- Python
 
 ---
